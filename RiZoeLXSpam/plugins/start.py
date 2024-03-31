@@ -10,8 +10,8 @@ RIZ_IMG = ALIVE_PIC if ALIVE_PIC else "https://telegra.ph/file/ba87c58f01a6fcb5e
 
 Riz_Button = [
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/RiZoeLX"),
-        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/DNHxHELL")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/dragondpworld"),
+        Button.url("sᴜᴘᴘᴏʀᴛ", "https://t.me/shadowfightersop")
         ],
         [
         Button.url("• ʀᴇᴘᴏ •", "https://github.com/MrRizoel/RiZoeLXSpam")
@@ -28,7 +28,7 @@ async def start(event):
        replied_user = await event.client(GetFullUserRequest(event.sender_id))
        TheRiZoeL = event.chat_id
        firstname = replied_user.user.first_name
-       Rizmsg = f"**Hello, {firstname} ! Nice To Meet You, Well I Am {bot_id}, An Powerfull Spam Bot.** \n\n**If You Want Your Own Spam Bots You Can Deploy From Button Below.** \n\n**𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 [𝐑𝐈𝐙𝐎𝐄𝐋 𝐗](https://t.me/RiZoeLX)**"
+       Rizmsg = f"**Hello, {firstname} ! Nice To Meet You, Well I Am {bot_id}, An Powerfull Spam Bot.** \n\n**If You Want Your Own Spam Bots You Can Deploy From Button Below.** \n\n**𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 [𝐃𝐑𝐄𝐆𝐎𝐍](https://t.me/Dragonjaan_m)**"
        await Riz.send_file(TheRiZoeL,
                 RIZ_IMG,
                 caption=Rizmsg, 
@@ -43,7 +43,7 @@ async def start(event):
        replied_user = await event.client(GetFullUserRequest(event.sender_id))
        TheRiZoeL = event.chat_id
        firstname = replied_user.user.first_name
-       Rizmsg = f"**Hello, {firstname} ! Nice To Meet You, Well I Am {bot_id}, An Powerfull Spam Bot.** \n\n**If You Want Your Own Spam Bots You Can Deploy From Button Below.** \n\n**𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 [𝐑𝐈𝐙𝐎𝐄𝐋 𝐗](https://t.me/RiZoeLX)**"
+       Rizmsg = f"**Hello, {firstname} ! Nice To Meet You, Well I Am {bot_id}, An Powerfull Spam Bot.** \n\n**If You Want Your Own Spam Bots You Can Deploy From Button Below.** \n\n**𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 [𝐃𝐑𝐄𝐆𝐎𝐍](https://t.me/Dragonjaan_m)**"
        await Riz2.send_file(TheRiZoeL,
                 RIZ_IMG,
                 caption=Rizmsg, 
@@ -58,7 +58,7 @@ async def start(event):
        replied_user = await event.client(GetFullUserRequest(event.sender_id))
        TheRiZoeL = event.chat_id
        firstname = replied_user.user.first_name
-       Rizmsg = f"**Hello, {firstname} ! Nice To Meet You, Well I Am {bot_id}, An Powerfull Spam Bot.** \n\n**If You Want Your Own Spam Bots You Can Deploy From Button Below.** \n\n**𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 [𝐑𝐈𝐙𝐎𝐄𝐋 𝐗](https://t.me/RiZoeLX)**"
+       Rizmsg = f"**Hello, {firstname} ! Nice To Meet You, Well I Am {bot_id}, An Powerfull Spam Bot.** \n\n**If You Want Your Own Spam Bots You Can Deploy From Button Below.** \n\n**𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 [𝐃𝐑𝐄𝐆𝐎𝐍](https://t.me/Dragonjaan_m)**"
        await Riz3.send_file(TheRiZoeL,
                 RIZ_IMG,
                 caption=Rizmsg, 
@@ -73,7 +73,7 @@ async def start(event):
        replied_user = await event.client(GetFullUserRequest(event.sender_id))
        TheRiZoeL = event.chat_id
        firstname = replied_user.user.first_name
-       Rizmsg = f"**Hello, {firstname} ! Nice To Meet You, Well I Am {bot_id}, An Powerfull Spam Bot.** \n\n**If You Want Your Own Spam Bots You Can Deploy From Button Below.** \n\n**𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 [𝐑𝐈𝐙𝐎𝐄𝐋 𝐗](https://t.me/RiZoeLX)**"
+       Rizmsg = f"**Hello, {firstname} ! Nice To Meet You, Well I Am {bot_id}, An Powerfull Spam Bot.** \n\n**If You Want Your Own Spam Bots You Can Deploy From Button Below.** \n\n**𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 [𝐃𝐑𝐄𝐆𝐎𝐍](https://t.me/Dragonjaan_m)**"
        await Riz4.send_file(TheRiZoeL,
                 RIZ_IMG,
                 caption=Rizmsg, 
@@ -88,7 +88,7 @@ async def start(event):
        replied_user = await event.client(GetFullUserRequest(event.sender_id))
        TheRiZoeL = event.chat_id
        firstname = replied_user.user.first_name
-       Rizmsg = f"**Hello, {firstname} ! Nice To Meet You, Well I Am {bot_id}, An Powerfull Spam Bot.** \n\n**If You Want Your Own Spam Bots You Can Deploy From Button Below.** \n\n**𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 [𝐑𝐈𝐙𝐎𝐄𝐋 𝐗](https://t.me/RiZoeLX)**"
+       Rizmsg = f"**Hello, {firstname} ! Nice To Meet You, Well I Am {bot_id}, An Powerfull Spam Bot.** \n\n**If You Want Your Own Spam Bots You Can Deploy From Button Below.** \n\n**𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 [𝐃𝐑𝐄𝐆𝐎𝐍](https://t.me/Dragonjaan_m)**"
        await Riz5.send_file(TheRiZoeL,
                 RIZ_IMG,
                 caption=Rizmsg, 
@@ -103,7 +103,7 @@ async def start(event):
        replied_user = await event.client(GetFullUserRequest(event.sender_id))
        TheRiZoeL = event.chat_id
        firstname = replied_user.user.first_name
-       Rizmsg = f"**Hello, {firstname} ! Nice To Meet You, Well I Am {bot_id}, An Powerfull Spam Bot.** \n\n**If You Want Your Own Spam Bots You Can Deploy From Button Below.** \n\n**𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 [𝐑𝐈𝐙𝐎𝐄𝐋 𝐗](https://t.me/RiZoeLX)**"
+       Rizmsg = f"**Hello, {firstname} ! Nice To Meet You, Well I Am {bot_id}, An Powerfull Spam Bot.** \n\n**If You Want Your Own Spam Bots You Can Deploy From Button Below.** \n\n**𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 [𝐃𝐑𝐄𝐆𝐎𝐍](https://t.me/Dragonjaan_m)**"
        await Riz6.send_file(TheRiZoeL,
                 RIZ_IMG,
                 caption=Rizmsg, 
@@ -118,7 +118,7 @@ async def start(event):
        replied_user = await event.client(GetFullUserRequest(event.sender_id))
        TheRiZoeL = event.chat_id 
        firstname = replied_user.user.first_name
-       Rizmsg = f"**Hello, {firstname} ! Nice To Meet You, Well I Am {bot_id}, An Powerfull Spam Bot.** \n\n**If You Want Your Own Spam Bots You Can Deploy From Button Below.** \n\n**𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 [𝐑𝐈𝐙𝐎𝐄𝐋 𝐗](https://t.me/RiZoeLX)**"
+       Rizmsg = f"**Hello, {firstname} ! Nice To Meet You, Well I Am {bot_id}, An Powerfull Spam Bot.** \n\n**If You Want Your Own Spam Bots You Can Deploy From Button Below.** \n\n**𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 [𝐃𝐑𝐄𝐆𝐎𝐍](https://t.me/Dragonjaan_m)**"
        await Riz7.send_file(TheRiZoeL,
                 RIZ_IMG,
                 caption=Rizmsg, 
@@ -133,7 +133,7 @@ async def start(event):
        replied_user = await event.client(GetFullUserRequest(event.sender_id))
        TheRiZoeL = event.chat_id
        firstname = replied_user.user.first_name
-       Rizmsg = f"**Hello, {firstname} ! Nice To Meet You, Well I Am {bot_id}, An Powerfull Spam Bot.** \n\n**If You Want Your Own Spam Bots You Can Deploy From Button Below.** \n\n**𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 [𝐑𝐈𝐙𝐎𝐄𝐋 𝐗](https://t.me/RiZoeLX)**"
+       Rizmsg = f"**Hello, {firstname} ! Nice To Meet You, Well I Am {bot_id}, An Powerfull Spam Bot.** \n\n**If You Want Your Own Spam Bots You Can Deploy From Button Below.** \n\n**𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 [𝐃𝐑𝐄𝐆𝐎𝐍](https://t.me/Dragonjaan_m)**"
        await Riz8.send_file(TheRiZoeL,
                 RIZ_IMG,
                 caption=Rizmsg, 
@@ -148,7 +148,7 @@ async def start(event):
        replied_user = await event.client(GetFullUserRequest(event.sender_id))
        TheRiZoeL = event.chat_id
        firstname = replied_user.user.first_name
-       Rizmsg = f"**Hello, {firstname} ! Nice To Meet You, Well I Am {bot_id}, An Powerfull Spam Bot.** \n\n**If You Want Your Own Spam Bots You Can Deploy From Button Below.** \n\n**𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 [𝐑𝐈𝐙𝐎𝐄𝐋 𝐗](https://t.me/RiZoeLX)**"
+       Rizmsg = f"**Hello, {firstname} ! Nice To Meet You, Well I Am {bot_id}, An Powerfull Spam Bot.** \n\n**If You Want Your Own Spam Bots You Can Deploy From Button Below.** \n\n**𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 [𝐃𝐑𝐄𝐆𝐎𝐍](https://t.me/Dragonjaan_m)**"
        await Riz9.send_file(TheRiZoeL,
                 RIZ_IMG,
                 caption=Rizmsg, 
@@ -163,7 +163,7 @@ async def start(event):
        replied_user = await event.client(GetFullUserRequest(event.sender_id))
        TheRiZoeL = event.chat_id
        firstname = replied_user.user.first_name
-       Rizmsg = f"**Hello, {firstname} ! Nice To Meet You, Well I Am {bot_id}, An Powerfull Spam Bot.** \n\n**If You Want Your Own Spam Bots You Can Deploy From Button Below.** \n\n**𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 [𝐑𝐈𝐙𝐎𝐄𝐋 𝐗](https://t.me/RiZoeLX)**"
+       Rizmsg = f"**Hello, {firstname} ! Nice To Meet You, Well I Am {bot_id}, An Powerfull Spam Bot.** \n\n**If You Want Your Own Spam Bots You Can Deploy From Button Below.** \n\n**𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 [𝐃𝐑𝐄𝐆𝐎𝐍](https://t.me/Dragonjaan_m)**"
        await Riz10.send_file(TheRiZoeL,
                 RIZ_IMG,
                 caption=Rizmsg, 
